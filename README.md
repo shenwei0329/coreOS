@@ -1,0 +1,2 @@
+# coreOS
+Only for coreOS
