@@ -1,2 +1,1 @@
-# coreOS
-Only for coreOS
+之前，朋友推荐了docker和coreOS，自己并没在意...。现在，感受到docker世界的温度的上升，也就开始追赶它的脚步。利用2015春节之际，开始了学习...
